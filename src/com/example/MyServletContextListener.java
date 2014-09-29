@@ -13,6 +13,8 @@ public class MyServletContextListener implements ServletContextListener{
 	public void contextDestroyed(ServletContextEvent event){
 		//nothing to do
 	}
+	sysout
+	
 }
 
 
